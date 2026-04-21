@@ -1,2 +1,2 @@
-flask==0.5
+flask
 gunicorn
